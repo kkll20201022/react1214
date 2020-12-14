@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-
+//是啊
 export default class two extends Component {
     render() {
         return (
@@ -8,4 +8,5 @@ export default class two extends Component {
             </div>
         )
     }
-}
+}  
+
